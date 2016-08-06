@@ -1,0 +1,37 @@
+_repo: The-Barbarism-of-Berlin_11560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: 'Unless we are all mad, there is at the back of the most bewildering
+  business a story: and if we are all mad, there is no such thing as madness. If I
+  set a house on fire, it is quite true that I may illuminate many other people''s
+  weaknesses as well as my own. It may be that the master of the house was burned
+  because he was drunk: it may be that the mistress of the house was burned because
+  she was stingy, and perished arguing about the expense of a fire-escape. It is,
+  nevertheless, broadly true that they both were burned because I set fire to their
+  house. That is the story of the thi.'
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Causes'
+- !lcc 'D501'
+- !lcsh 'Germany -- Politics and government'
+- GITenberg
+title: The Barbarism of Berlin
+url: http://www.gutenberg.org/ebooks/11560
