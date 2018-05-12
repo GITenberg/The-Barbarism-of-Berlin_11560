@@ -1,5 +1,8 @@
 _repo: The-Barbarism-of-Berlin_11560
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -19,6 +22,8 @@ description: 'Unless we are all mad, there is at the back of the most bewilderin
   she was stingy, and perished arguing about the expense of a fire-escape. It is,
   nevertheless, broadly true that they both were burned because I set fire to their
   house. That is the story of the thi.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11560#The-Barbarism-of-Berlin
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
